@@ -16,14 +16,14 @@ body {
     color: #fff!important;
     padding: 15px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center; 
     align-items: center;
     font-size: 20px;
 }
 
 .navbar .ul {
     display: flex;
-    justify-content: space-between;
+    justify-content: center; 
     align-items: center;
     width: 1100px;
 }
